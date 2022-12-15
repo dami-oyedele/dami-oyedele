@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dami-oyedele
+- 👋 Hi, I’m dami
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning general comp sci stuff
-- 📫 How to reach me - damigod#1261 on discord.
+- 🌱 I’m currently learning IT management
 
 <!---
 dami-oyedele/dami-oyedele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
