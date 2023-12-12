@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dami
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning IT management
+- 🌱 I’m an IT Specialist (Executive Officer) at a laboratory.
+- 👀 I sometimes like doing Web dev.
 
 <!---
 dami-oyedele/dami-oyedele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
